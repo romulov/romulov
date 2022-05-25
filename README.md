@@ -5,7 +5,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Romulo Vinicius</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romulov&color=yellow" alt="Profile views" /> </p>
 
-- 😄 I'm a technology student
+- 😄 I'm a newbie technology student
 
 - 👯 I’m looking to collaborate on share my learning
 
@@ -41,8 +41,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=romulov&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulov&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=romulov&show_icons=true&theme=vision-friendly-dark" alt="romulov's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulov&layout=compact&theme=vision-friendly-dark" alt="romulov's most languages"/>
 </p>
 
 <br><br>
