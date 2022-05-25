@@ -1,6 +1,6 @@
 
 
-<img src="https://user-images.githubusercontent.com/102977521/170362706-7ce81b62-666c-4398-85f8-4ad8e0cdd438.gif" width="300px">
+
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Romulo Vinicius</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romulov&color=yellow" alt="Profile views" /> </p>
@@ -11,8 +11,9 @@
 
 - 🤔 I’m looking for help on how to learn better and more
 
-- ⚡ Fun fact: I love animes, games and skateboard.
+- ⚡ Fun fact: I love animes, games and skateboard. 
 
+<img align="right" src="https://user-images.githubusercontent.com/102977521/170362706-7ce81b62-666c-4398-85f8-4ad8e0cdd438.gif" width="300px">
 
 <br>
 
