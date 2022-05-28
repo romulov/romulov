@@ -12,8 +12,6 @@
 - 📚 Atualmente estou focado em estudar e aprender cada vez mais
 
 - ⚡ Fun fact: Eu sou formado em engenharia civil (me sinto confortável com matérias de exatas), eu gosto de praticar esportes, assistir animes e games. 
-<img align="right" src="https://user-images.githubusercontent.com/102977521/170363857-be5689aa-cca2-49d5-af91-b8a443340e33.gif" width="300px">
-
 
 <br>
 
