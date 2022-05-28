@@ -2,22 +2,22 @@
 
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Romulo Vinicius</h1>
+<h1 align="left">Oi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou o Romulo Vinicius</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romulov&color=yellow" alt="Profile views" /> </p>
 
-- 😄 I'm a newbie technology student
+- 😄 Comecei a estudar programação recentemente.
 
-- 👯 I’m looking to collaborate on share my learning
+- 🤝 Posso ajudar no que for possível e estou aberto a dicas e sugestões
 
-- 🤔 I’m looking for help on how to learn better and more
+- 📚 Atualmente estou focado em estudar e aprender cada vez mais
 
-- ⚡ Fun fact: I love animes, games and skateboard. 
+- ⚡ Fun fact: Eu sou formado em engenharia civil (adoro estudar matérias de exatas), eu gosto de praticar esportes, assistir animes e games. 
 <img align="right" src="https://user-images.githubusercontent.com/102977521/170363857-be5689aa-cca2-49d5-af91-b8a443340e33.gif" width="300px">
 
 
 <br>
 
-## 🛠 I’m currently learning
+## 🛠 Atualmente eu estou estudando:
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
