@@ -33,8 +33,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<img align="right" src="https://user-images.githubusercontent.com/102977521/170362706-7ce81b62-666c-4398-85f8-4ad8e0cdd438.gif" width="300px">
-<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
