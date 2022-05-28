@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact: Eu sou formado em engenharia civil (me sinto confortável com matérias de exatas), eu gosto de praticar esportes, assistir animes e games. 
 
-<br>
 
 ## 🛠 Atualmente eu estou estudando:
 
