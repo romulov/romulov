@@ -33,10 +33,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
-## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=romulov&show_icons=true&theme=vision-friendly-dark" alt="romulov's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulov&layout=compact&theme=vision-friendly-dark" alt="romulov's most languages"/>
 </p>
 
