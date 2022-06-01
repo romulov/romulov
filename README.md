@@ -2,7 +2,7 @@
 
 
 
-<h1 align="left">Oi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou o Romulo Vinicius</h1>
+<h1 align="left">Oi, 👋 eu sou o Romulo Vinicius</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romulov&color=yellow" alt="Profile views" /> </p>
 
 - 😄 Comecei a estudar programação recentemente.
