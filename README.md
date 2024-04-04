@@ -5,13 +5,6 @@
 <h1 align="left">Oi, 👋 eu sou o Romulo Vinicius</h1>
 
 
-- 😄 Comecei a estudar programação recentemente.
-
-- 🤝 Posso ajudar no que for possível e estou aberto a dicas e sugestões
-
-- 📚 Atualmente estou focado em estudar e aprender cada vez mais
-
-- ⚡ Fun fact: Eu sou formado em engenharia civil (me sinto confortável com matérias de exatas), eu gosto de praticar esportes, assistir animes e games. 
 
 
 ## 🛠 Atualmente eu estou estudando:
