@@ -9,6 +9,9 @@
 
 ## 🛠 Atualmente eu estou estudando:
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -37,7 +40,7 @@
 
 <p align="left" style="background:yellow">
 
-<a href="https://linkedin.com" target="_blank">
+<a href="https://linkedin.com/in/romulo-v-ramos/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-romulovinicius-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
