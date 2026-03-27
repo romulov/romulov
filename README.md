@@ -41,7 +41,7 @@
 <p align="left" style="background:yellow">
 
 <a href="https://linkedin.com/in/romulo-v-ramos/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-romulovinicius-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 
 </p>
